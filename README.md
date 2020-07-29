@@ -2,4 +2,4 @@
 
 DMM WEBCAMPカリキュラム
 
-* JavaScriptを学ぼう/【jQueryを使ってみよう】
+* JavaScriptを学ぼう/4章　【jQueryを使ってみよう】
